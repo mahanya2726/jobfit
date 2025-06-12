@@ -114,7 +114,7 @@ st.markdown("""
 
 # --- Title Section ---
 st.markdown("<h1 style='text-align: center; color: #FF8C00;'>JobFit</h1>", unsafe_allow_html=True)
-st.markdown("<h4 style='text-align: center; color: #DDDDDD;'>Smart ATS Resume Analyzer</h4>", unsafe_allow_html=True)
+st.markdown("<h4 style='text-align: center; font-size:20px; font-weight:1000; margin-bottom:1px;'>Smart ATS Resume Analyzer</h4>", unsafe_allow_html=True)
 st.markdown("---")
 
 # --- Layout Columns ---
